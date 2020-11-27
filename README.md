@@ -23,6 +23,9 @@ There is no license at this moment
 This app will help you manager your team of employees. Add departments, roles, employess. View departments, roles, employess, and update employee roles. 
 
 
+<img width="1184" alt="Screen Shot 2020-11-26 at 7 38 37 PM" src="https://user-images.githubusercontent.com/67520932/100401443-16d35480-301f-11eb-8aff-add13118c66d.png" href=""> 
+
+
 # Github
 [https://www.github.com/zachyanez](https://www.github.com/zachyanez)
 
