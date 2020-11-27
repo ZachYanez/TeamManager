@@ -23,13 +23,17 @@ There is no license at this moment
 This app will help you manager your team of employees. Add departments, roles, employess. View departments, roles, employess, and update employee roles. 
 
 
+
+
 # Github
 [https://www.github.com/zachyanez](https://www.github.com/zachyanez)
 
 # Installation
-Requires Mysql package. Requires Npm
+Install npm by running "npm i" in terminal.
+Install Mysql and console.table by running "npm i mysql console.table".
 
 # Usage
+This app is made for managers who are responsonsible for multiple bands.
 This app is run in the command line.
 
 # Contributors
@@ -39,7 +43,7 @@ Zach Yanez & Team
 There are currently no tests.
 
 # License
-There is no license at this moment
+MIT 
 
 
 # Questions

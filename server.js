@@ -265,25 +265,3 @@ function updateSalary(){
             mainPrompt();
         });
     })};
-
-// function updateSalary(){
-//     inquirer.prompt([{
-//             name: "id",
-//             type: "input",
-//             message: "What ID would you like to update?"
-//             },
-//             {
-//             name: "salary",
-//             type: "input",
-//             message: "What is their new salary?"
-//             },           
-//         ]).then(({id, salary}) => {
-//         connection.query("UPDATE role WHERE ? SET ?",[{id: id }, {salary: salary}], (req,res) => {
-//             if (err) {
-//                 throw err;
-//             }
-//             console.log("Your employee has been updated")
-
-//         });
-//         })};
-
