@@ -25,13 +25,17 @@ This app will help you manager your bands and musicians in said bands. Add Bands
 <img width="1184" alt="Screen Shot 2020-11-26 at 7 38 37 PM" src="https://user-images.githubusercontent.com/67520932/100401443-16d35480-301f-11eb-8aff-add13118c66d.png" href=""> 
 
 
+
+
 # Github
 [https://www.github.com/zachyanez](https://www.github.com/zachyanez)
 
 # Installation
-Requires Mysql package. Requires Npm
+Install npm by running "npm i" in terminal.
+Install Mysql and console.table by running "npm i mysql console.table".
 
 # Usage
+This app is made for managers who are responsonsible for multiple bands.
 This app is run in the command line.
 
 # Contributors
@@ -41,7 +45,7 @@ Zach Yanez & Team
 There are currently no tests.
 
 # License
-There is no license at this moment
+MIT 
 
 
 # Questions
